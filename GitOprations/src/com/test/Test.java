@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	System.out.println(">>>>>>>>>>>>>>>>>");
 	System.out.println("Git first change");
 	System.out.println("Git Push");
+	System.out.println("data send to project by the git");
 }
 }
